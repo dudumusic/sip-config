@@ -17,4 +17,3 @@ spring:
           password:
       # 配置git仓库的分支
       label: master
-name: lisan
